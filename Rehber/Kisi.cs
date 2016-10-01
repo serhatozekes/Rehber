@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Rehber
 {
-    class Program
+    public class Kisi
     {
-        static void Main(string[] args)
-        {
-            // kodlama yapıldı
-        }
+        // kodlama yapıldı....
     }
 }
